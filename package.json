@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "testcafe chrome tests"
+    "test": "testcafe"
   },
   "devDependencies": {
     "testcafe": "^1.14.2",
