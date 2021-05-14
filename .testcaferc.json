@@ -1,0 +1,7 @@
+{
+  "browsers": ["chrome:headless", "firefox"],
+  "src": "tests",
+  "compilerOptions": {
+    "typescript": { "configPath": "tsconfig.json" }
+  }
+}

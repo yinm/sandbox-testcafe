@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "test": "testcafe chrome tests"
+    "test": "testcafe"
   },
   "devDependencies": {
-    "testcafe": "^1.14.2"
+    "testcafe": "^1.14.2",
+    "typescript": "^3.9.9"
   }
 }
